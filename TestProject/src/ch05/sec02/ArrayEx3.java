@@ -1,5 +1,6 @@
 package ch05.sec02;
-import java.util.*;
+import java.util.Arrays;
+import java.util.Random;
 
 public class ArrayEx3 {
   public static void main(String[] args) {
